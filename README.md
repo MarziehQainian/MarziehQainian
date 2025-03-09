@@ -48,7 +48,7 @@ I have extensive experience with **.NET technologies, MSSQL, and modern developm
 # ✉️ 𝐑𝐄𝐀𝐂𝐇 𝐌𝐄  
 📧 **Email:** [Marzieh.qainian@gmail.com](mailto:Marzieh.qainian@gmail.com)  
 🔗 **LinkedIn:** [Marzieh Qainian](https://www.linkedin.com/in/marzieh-qainian)  
-🏠 **GitHub:** [Your GitHub Profile](https://github.com/your-github-username)  
+🏠 **GitHub:** [MarziehQainian](https://github.com/MarziehQainian)  
 
 
 
