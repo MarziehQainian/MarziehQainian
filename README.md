@@ -21,6 +21,7 @@ I have extensive experience with **.NET technologies, MSSQL, and modern developm
  </tr>
 </table>  
 
+
 ---
 
 # 💪 𝐒𝐊𝐈𝐋𝐋𝐒  
